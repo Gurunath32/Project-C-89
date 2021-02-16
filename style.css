@@ -32,3 +32,8 @@ object-fit:contain;
 #login_div h3 {
     font-family: 'Nanum Gothic', sans-serif;
 }
+
+#login_button {
+    margin-bottom: 20px;
+    width: 200px;
+}
